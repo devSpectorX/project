@@ -1,2 +1,1 @@
-# project
-C++
+Comments in C++ 
